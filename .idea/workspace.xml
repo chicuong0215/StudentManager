@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac2dad07-1527-4c7b-ab94-50ee939db235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cuong/studentmanager/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ac2dad07-1527-4c7b-ab94-50ee939db235" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666160872842</updated>
-      <workItem from="1666160874255" duration="945000" />
+      <workItem from="1666160874255" duration="1307000" />
     </task>
     <servers />
   </component>
